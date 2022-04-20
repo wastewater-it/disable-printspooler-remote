@@ -1,2 +1,2 @@
 # disable-printspooler-remote
-Remotely stop and disable print spooler for security
+Remotely stop and disable print spooler for security purposes. Requires PowerShell remoting to function and must be run with administrative privilges. An example CSV is included with the appropriate header.
